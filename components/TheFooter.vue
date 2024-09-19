@@ -34,6 +34,7 @@
           github_id: '',
         }"
       >
+          <p>&copy; 2024 CloudFlix. All rights reserved.</p>
         <a href="https://vercel.com" rel="noopener" target="_blank" aria-label="go to vercel">
           <IconVercel alt="Vercel" />
         </a>
