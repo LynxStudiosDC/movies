@@ -16,7 +16,7 @@ useHead({
     { name: 'twitter:creator', content: '@nuxt_js' },
   ],
   link: [
-    {
+   {
       rel: 'icon',
       type: 'image/webp',
       href: '/cloud.webp',
