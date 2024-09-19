@@ -11,7 +11,7 @@
         Made with
       </div>
       <a href="https://lynxstudios.xyz" target="_blank" title="LynxStudios">
-        <Lynx Studios h5 />
+        <cloud h5 />
       </a>
     </div>
     <div flex="~ row gap2" items-center>
