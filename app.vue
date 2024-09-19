@@ -18,8 +18,8 @@ useHead({
   link: [
     {
       rel: 'icon',
-      type: 'image/png',
-      href: '/cloud.png',
+      type: 'image/webp',
+      href: '/cloud.webp',
     },
   ],
 })
