@@ -6,7 +6,7 @@ useHead({
     lang: 'en',
   },
   charset: 'utf-8',
-  title: 'Nuxt Movies',
+  title: 'CloudFlix',
   titleTemplate: title => title !== 'CloudFlix' ? `${title} · CloudFlix` : title,
   meta: [
     { name: 'description', content: 'A TMDB client built with Nuxt Image to show the potential of it ✨' },
@@ -18,7 +18,7 @@ useHead({
   link: [
     {
       rel: 'icon',
-      type: 'image/webp',
+      type: 'image/png',
       href: '/cloud.png',
     },
   ],
