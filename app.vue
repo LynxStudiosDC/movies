@@ -7,7 +7,7 @@ useHead({
   },
   charset: 'utf-8',
   title: 'Nuxt Movies',
-  titleTemplate: title => title !== 'Nuxt Movies' ? `${title} · Nuxt Movies` : title,
+  titleTemplate: title => title !== 'CloudFlix' ? `${title} · CloudFlix` : title,
   meta: [
     { name: 'description', content: 'A TMDB client built with Nuxt Image to show the potential of it ✨' },
     { property: 'og:image', content: 'https://movies.nuxt.space/social-card.png' },
@@ -19,7 +19,7 @@ useHead({
     {
       rel: 'icon',
       type: 'image/webp',
-      href: '/movies.webp',
+      href: '/cloud.png',
     },
   ],
 })
